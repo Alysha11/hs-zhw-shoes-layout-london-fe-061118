@@ -41,8 +41,7 @@
 .column3{
   display: inline-block;
   width: 33%;
-
-  margin: 1%;
+  margin: 2% 1% 1% 1%;
 }
 
 .border_right{
