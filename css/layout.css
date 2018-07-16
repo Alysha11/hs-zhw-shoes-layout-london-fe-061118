@@ -23,5 +23,31 @@
 }
 
 /* Posititoning Classes */
+ 
+
+.column1 {
+  width:65%;
+  display: inline-block;
+  height: 589px;
+}
+
+
+.column2{
+  float: right;
+  width: 30%;
+ 
+}
+
+.column3{
+  display: inline-block;
+  width: 31%;
+  margin: 3% 1% 1% 1%;
+}
+
+.border_right{
+  display: inline-block;
+  width: 30%;
+  
+}
 
 
