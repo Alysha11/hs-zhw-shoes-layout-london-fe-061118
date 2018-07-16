@@ -23,13 +23,12 @@
 }
 
 /* Posititoning Classes */
-.new1 .new2{
-  height: 100%;
-} 
+ 
 
 .column1 {
   width:65%;
   display: inline-block;
+  height: 100%;
 }
 
 
